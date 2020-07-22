@@ -1,0 +1,22 @@
+{
+  "name": "jiosaavn_song_downloader",
+  "version": "1.0.0",
+  "description": "get cdn url / download url for songs from jiosaavn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaiTeja69/Jiosaavn_Song_downloader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaiTeja69/Jiosaavn_Song_downloader/issues"
+  },
+  "homepage": "https://github.com/SaiTeja69/Jiosaavn_Song_downloader#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
